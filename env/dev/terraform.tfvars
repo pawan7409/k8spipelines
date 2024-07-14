@@ -1,6 +1,14 @@
 rgs = {
   rg1 = {
-    name     = "pawayug-rg"
+    name     = "pawayug-rg0"
+    location = "West Europe"
+  }
+  rg2 = {
+    name     = "pawayug-rg1"
+    location = "West Europe"
+  }
+  rg3 = {
+    name     = "pawayug-rg2"
     location = "West Europe"
   }
 }
